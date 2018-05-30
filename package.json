@@ -1,0 +1,29 @@
+{
+  "name": "auto-mocks",
+  "version": "1.0.0",
+  "description": "Mocks de API para o desafio",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "nodejs",
+    "vivere",
+    "API",
+    "swagger"
+  ],
+  "author": "paula",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.11.0",
+    "moment": "^2.13.0",
+    "node-swagger-ui": "1.0.4",
+    "swagger-node-express": "^2.1.3"
+  }
+}
